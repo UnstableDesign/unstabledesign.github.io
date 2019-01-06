@@ -11,9 +11,9 @@ Designed By: Laura Devendorf; Warps: 300; Shuttles: 12
 7. Button 2/Bottom (B2/B)
 8. Button 3/Top (B3/T)
 9. Button 3/Bottom (B3/B)
-10. Thermochromic 1
-11. Thermochromic 2
-12. Thermochromic 3
+10. Thermochromic 1 (C1)
+11. Thermochromic 2 (C2)
+12. Thermochromic 3 (C3)
 
 The Button shuttles are a conductive stainless steel yarn, and the thermochrmic are coated wire painted with thermochromic pigments
 
@@ -22,6 +22,5 @@ The Button shuttles are a conductive stainless steel yarn, and the thermochrmic 
 ## Final Results
 
 ## Files
-- [Draft bitmap](/drafts/13_region_weave/adacad_canvas.png)
-- [Annotations](/drafts/13_region_weave/adacad_canvas.png)
+- [Annotations](/drafts/13_region_weave/annotations.txt)
 - [AdaCAD Canvas Final](/drafts/13_region_weave/adacad_canvas.png)
