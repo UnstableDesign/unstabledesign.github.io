@@ -3,9 +3,6 @@ Designed By: Shanel Wu
 
 ## Shuttles
 
-
-The Button shuttles are a conductive stainless steel yarn.
-
 ## Draft Notes
 
 ## Final Results
