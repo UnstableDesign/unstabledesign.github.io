@@ -6,11 +6,11 @@ Designed By: Shanel Wu
 ## Draft Notes
 
 ## Final Results
-Reference-style: 
-![alt text][final]
+![Step Through of Interwoven Images][final]
 
 ## Files
 - [Draft Bitmap](/drafts/interwoven_images/interwovenImages.bmp)
+- [AdaCAD Canvas for Chevron](/drafts/interwoven_images/adacad_canvas_chevron.png)
 
 
 [final]: chevrons_figure_UPDATED.png "Figure for interwoven images"
