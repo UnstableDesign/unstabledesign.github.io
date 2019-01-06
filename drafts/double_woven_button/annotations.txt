@@ -1,0 +1,17 @@
+Shuttles:
+Regular Yarn 1 - Inserts left
+Regular Yarn 2 - Inserts left
+Conductive Bottom - Inserts left
+Conductive Top - Inserts right
+
+Connections:
+Conductive Top connection along warp 31 (count left to right) from rows 21 through 79
+
+Order of Shuttles thrown (starts from bottom up):
+1-20 Regular Yarn 1
+21 Conductive Top
+22 Regular Yarn 2
+23 Conductive Bottom
+24 Regular Yarn 1
+Repeat shuttles from 22-24 until row 81
+82-101 Regular Yarn 1
