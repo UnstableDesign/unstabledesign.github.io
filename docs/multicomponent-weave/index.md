@@ -8,7 +8,7 @@ develop complex, multi-functional smart textiles. The color-changing region has 
 
 ### Pressure Sensor
 
-The pressure sensor is created with a woven structure (stitch) called waffle weave. Waffle weave is a textured structure often used in towels because its airiness makes it highly absorbent. When 
+The pressure sensor is created with a woven structure (stitch) called waffle weave. Waffle weave is a textured structure often used in towels because its airiness makes it highly absorbent. When woven using a conductive yarn along with a non-conductive yarn (I used stainless steel with 10/2 Pealr cotton yarn), the structure is highly resistive when uncompressed, and then decreases significantly in resistance when compressed.
 
 ### Double Woven Pocket
 
