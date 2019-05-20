@@ -1,0 +1,18 @@
+@import "{{ site.theme }}";
+
+@import url(https://fonts.googleapis.com/css?family=Lato|Merriweather|Montserrat&display=swap);
+
+body, a {
+  font-family: "Merriweather" !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat" !important;
+}
+
+#main-content {
+  h1,h2,h3,h4,h5,h6 {
+    font-family: "Montserrat" !important;
+  }
+}
+
