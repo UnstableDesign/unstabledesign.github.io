@@ -1,5 +1,10 @@
 @import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css?family=Lato|Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lato|Merriweather|Montserrat&display=swap');
+* {
+  font-family: "Merriweather";
+}
 
-
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat";
+}
 
