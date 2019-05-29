@@ -1,4 +1,4 @@
-# 13 Region Touch Weave
+# 3 Region Touch Weave 
 Designed By: Laura Devendorf; Warps: 300; Shuttles: 12
 
 ## Shuttles
@@ -17,7 +17,13 @@ Designed By: Laura Devendorf; Warps: 300; Shuttles: 12
 
 The Button shuttles are a conductive stainless steel yarn, and the thermochrmic are coated wire painted with thermochromic pigments
 
+*Note: This draft is for one section of a multi-press weave. This strip may be repeated any number of times to create more press buttons.*
+
 ## Draft Notes
+**Connections:**
+1. Button 1/Top connection along warp 41 (count left to right) from rows 22 through 84
+2. Button 2/Top connection along warp 113 (count left to right) from rows 14 through 91
+3. Button 3/Top connection along warp 261 (count left to right) from rows 7 through 97
 
 ## Final Results
 
