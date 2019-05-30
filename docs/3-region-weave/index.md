@@ -1,6 +1,6 @@
 # Weave with Regions of Press Sensing and Color Change
-- Designed and Woven by [Laura Devendorf] (https://github.com/devendork)
-- Electronics and PCB Support by Chad Di Lauro
+- Designed and Woven by [Laura Devendorf](https://github.com/devendork)
+- Electronics and PCB Designed by Chad Di Lauro
 
 ## Summary
 This fabric uses a double woven structure and inlay techniques to create three adjacent regions that can sense press and change color in response. We used a stainless steel conductive yarn to integrate press pads into the back of the double layer weave, and a custom made color changing yarn integrated into the front face of the weave. The weave is designed such that all of the connecting wires are routed to the left side of the fabric. We developed a custom PCB and code that can sense the pressing and provide power to the appropriate regions. Additionally, we made a custom prototype with 9 total sections (3 consecutive sections of this pattern) that can be controlled by pressing or by a musical controller called a "Monome", which allows someone to essentially use button inputs to control the color pattern on the fabric. 
@@ -36,7 +36,7 @@ Weaving each section requires 12 shuttles to be in use at one time. We label the
 
 
 ## Final Results
-![Animation](/docs/animated_gif_small.gif)
+![Animation](/docs/3_region_weave/animated_gif_small.gif)
 
 ## Additional Resources
 - [More Project Details and Production Instructions](http://unstable.design/force-fabric/)
