@@ -37,7 +37,7 @@ Weaving each section requires 12 shuttles to be in use at one time. We label the
 
 
 ## Final Results
-![Animation](/drafts/13_region_weave/animated_gif_small.png)
+![Animation](/drafts/13_region_weave/animated_gif_small.gif)
 
 ## Additional Resources
 - [More Project Details and Production Instructions](http://unstable.design/force-fabric/)
