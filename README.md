@@ -1,5 +1,5 @@
 # Smart Textiles Documentation
-In this repository holds documentation for smart textiles prototypes. You can explore or contribute to this repository. 
+In this repository holds documentation for projects created at the Unstable Design Lab. You can explore or contribute to this repository. 
 
 ## Exploring
 To explore you can look at the github repository or you can go to [unstabledesign.github.io](https://unstabledesign.github.io).
