@@ -9,13 +9,13 @@
 
 ## Custom Software For Generating Woven Drafts
 - [Three Layer Weave Generator](https://github.com/UnstableDesign/ThreeLayerWeaveGenerator)
-- [Translating Text To Woven Stitches](https://github.com/nathcampreguer/text_to_weave)
-- [Overshot Generator](https://github.com/nathcampreguer/text_to_weave)
+- [Translating Text To Woven Stitches](/docs/text-to-weave)
+- [Overshot Generator](https://github.com/UnstableDesign/overshot-generator)
 
 ## Physical Protoypes
 - [A Wind Controlled Loom](https://www.instructables.com/id/Wind-Loom/)
-- [Laser Cut Warping Paddle](https://www.instructables.com/id/Wind-Loom/)
-- [Laser Cut Cardboard Tapestry Looms](https://www.instructables.com/id/Wind-Loom/)
+- Laser Cut Warping Paddle - Coming Soon
+- Laser Cut Cardboard Tapestry Looms - Coming Soon
 
 ## Electronics Support
 - Press Sensing and Color Change Fabric Assembly File - Coming Soon
