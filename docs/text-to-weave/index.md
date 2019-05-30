@@ -1,7 +1,6 @@
 # Text To Weave
 - Designed by [Nathalia Campreguer](https://github.com/nathcampreguer) 
 - In Collaboration with Tali Weinberg and [Laura Devendorf](https://github.com/devendork) 
-- Github Contact: Devendork
 
 ## Summary 
 This interface translates text into woven structures. Specifically, each character of text is translated into a unique twill block. The code ensures that the fabric is well formed (e.g. no long floats) and includes selvedge. We built this tool specifically to use in the "Weaving Climate Datascapes" workshop held in collaboration with Tali Weinberg at the Unstable Design Lab in 2019. 
