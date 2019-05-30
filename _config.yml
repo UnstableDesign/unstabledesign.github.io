@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
 title: Computational Textile Craft Resources
 description: Weaving drafts, software, how-tos, and PCB files to re-create prototype that were made in the Unstable Design Lab. 
-gem "github-pages", group: :jekyll_plugins
 
