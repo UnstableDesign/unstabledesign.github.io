@@ -2,7 +2,10 @@
 - [Double Woven Press Button](/docs/double-woven-button)
 - [Weave with Regions of Press Sensing and Color Change](/docs/3-region-weave)
 - [Multi-Component Weave](/docs/multicomponent-weave)
-- [Interwoven Images](/docs/interwoven-images)
+- [Hidden Chevrons](/docs/hidden-chevrons)
+- Shape Gradients - Coming Soon
+- Hello World! - Coming Soon
+- Button Matrix - Coming Soon
 
 ## Open Source Smart Textiles Drafting Software
 - [AdaCAD](https://github.com/UnstableDesign/AdaCAD-weaver)
@@ -12,7 +15,7 @@
 - [Translating Text To Woven Stitches](/docs/text-to-weave)
 - [Overshot Generator](https://github.com/UnstableDesign/overshot-generator)
 
-## Physical Protoypes
+## Physical Prototypes
 - [A Wind Controlled Loom](https://www.instructables.com/id/Wind-Loom/)
 - Laser Cut Warping Paddle - Coming Soon
 - Laser Cut Cardboard Tapestry Looms - Coming Soon
