@@ -33,17 +33,20 @@ One end of the resistive sheath is connected to power and the other end to groun
 ## Diagrams
 
 Diagram of the yarn-based system
-[](http://unstable.design/wp-content/uploads/2020/08/sf_diagram.jpg)
+![diagram depicting structure of string figure sensor](http://unstable.design/wp-content/uploads/2020/08/sf_diagram.jpg)
 
 Measuring setup. A power and ground connection at the beginning and end of string. A non-conductive section in between these regions makes resistance is measured across the entire length of the yarn.
-(http://unstable.design/wp-content/uploads/2020/08/2018-01-03-14.43.49.jpg)
+![sensor with multimeter attached to ground and power](http://unstable.design/wp-content/uploads/2020/08/2018-01-03-14.43.49.jpg)
 
 Resistance reading with no crossings in the yellow region
-(http://unstable.design/wp-content/uploads/2020/08/2018-01-03-14.47.43.jpg)
+![multimeter reads 373.8 ohms when uncrossed](http://unstable.design/wp-content/uploads/2020/08/2018-01-03-14.47.43.jpg)
 
 Resistance reading with a crossing in the yellow region (note lower resistence value given that there is a shorter path)
-(http://unstable.design/wp-content/uploads/2020/08/2018-01-03-14.48.15.jpg)
+![multimeter reads 318.3 when crossed in yellow region](http://unstable.design/wp-content/uploads/2020/08/2018-01-03-14.48.15.jpg)
 
+
+## Not Pictured
+Each output needs to be connected to a voltage dividing circuit in order to be read onto an arduino. 
 
 ## Publication
 
