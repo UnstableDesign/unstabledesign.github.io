@@ -33,7 +33,7 @@ One end of the resistive sheath is connected to power and the other end to groun
 ## Diagrams
 
 Diagram of the yarn-based system
-(http://unstable.design/wp-content/uploads/2020/08/sf_diagram.jpg)
+[](http://unstable.design/wp-content/uploads/2020/08/sf_diagram.jpg)
 
 Measuring setup. A power and ground connection at the beginning and end of string. A non-conductive section in between these regions makes resistance is measured across the entire length of the yarn.
 (http://unstable.design/wp-content/uploads/2020/08/2018-01-03-14.43.49.jpg)
