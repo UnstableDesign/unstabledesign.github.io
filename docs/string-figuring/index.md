@@ -9,14 +9,14 @@ We used a knitted i-cord structure and integrated resistive wiritng into the she
 hands and knitting needles or an embellishment i-cord knitter
 
 ## Yarns
-wool yarn
-statex resistive thread (we believe, its quite old so we don't know exactly which)
-cotton covered wire sourced from wires.co.uk
-copper tape
-enamel covered magnet wire (roughly 26 AWG)
+- wool yarn
+- statex resistive thread (we believe, its quite old so we don't know exactly which)
+- cotton covered wire sourced from wires.co.uk
+- copper tape
+- enamel covered magnet wire (roughly 26 AWG)
 
 
-![Diagram of the yarn-based system.](../.gitbook/assets/paperdiagram%20%281%29.jpg)
+![Diagram of the yarn-based system.](http://unstable.design/wp-content/uploads/2020/08/sf_diagram.jpg)
 
 ![Measuring setup. A power and ground connection at the beginning and end of string. A non-conductive section in between these regions makes resistance is measured across the entire length of the yarn.](../.gitbook/assets/2018-01-03-14.43.49%20%281%29.jpg)
 
