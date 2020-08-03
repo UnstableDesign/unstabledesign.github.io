@@ -45,3 +45,9 @@ One end of the resistive sheath is connected to power and the other end to groun
 
 You can read more about the project in our work in progress paper: [String Figuring: A Story of Reflection, Material Inquiry, and a Novel Sensor] (https://dl.acm.org/doi/10.1145/3170427.3188570) 
 
+## Companion Code
+
+After playing with this sensor, Laura got a bit fascinated on how many shapes might share the same resistance profiles. She wrote a simulator/visualizer in order to randomly generate shapes and predict their resistances. You can view the running code:
+- [online visualizer](http://artfordorks.com/dev/stringfigures/)
+- [github repo](https://github.com/Devendork/stringfigures)
+
