@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AdaCAD</title>
+    <description>An Experimental Drafting Tool for Experimental Weavers</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 19 May 2021 10:57:23 -0600</pubDate>
+    <lastBuildDate>Wed, 19 May 2021 10:57:23 -0600</lastBuildDate>
+    <generator>Jekyll v3.9.1</generator>
+    
+      <item>
+        <title>Getting Started</title>
+        <description>&lt;p&gt;This video will walk you through how to start your very first draft with AdaCAD. It also shows you how AdaCAD generates you a random draft to start based on the number of frames and treadles you are weaving with.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 24 Apr 2021 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/getting-started/</link>
+        <guid isPermaLink="true">http://localhost:4000/getting-started/</guid>
+        
+        
+        <category>how to</category>
+        
+      </item>
+    
+      <item>
+        <title>Exosekelton for Sedimentation</title>
+        <description>
+</description>
+        <pubDate>Fri, 23 Apr 2021 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/sedimentation/</link>
+        <guid isPermaLink="true">http://localhost:4000/sedimentation/</guid>
+        
+        <category>force sensing</category>
+        
+        <category>waffle weave</category>
+        
+        <category>circuitry</category>
+        
+        
+        <category>ideas</category>
+        
+      </item>
+    
+      <item>
+        <title>How to Save Files</title>
+        <description>&lt;p&gt;This video describes how to lead, print, and save your design files&lt;/p&gt;
+</description>
+        <pubDate>Fri, 23 Apr 2021 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/save-files/</link>
+        <guid isPermaLink="true">http://localhost:4000/save-files/</guid>
+        
+        
+        <category>how to</category>
+        
+      </item>
+    
+      <item>
+        <title>Color Changing Pressable Fabric</title>
+        <description>&lt;h1 id=&quot;weave-with-regions-of-press-sensing-and-color-change&quot;&gt;Weave with Regions of Press Sensing and Color Change&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Designed and Woven by &lt;a href=&quot;https://github.com/devendork&quot;&gt;Laura Devendorf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Electronics and PCB Designed by Chad Di Lauro&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;This fabric uses a double woven structure and inlay techniques to create three adjacent regions that can sense press and change color in response. We used a stainless steel conductive yarn to integrate press pads into the back of the double layer weave, and a custom made color changing yarn integrated into the front face of the weave. The weave is designed such that all of the connecting wires are routed to the left side of the fabric. We developed a custom PCB and code that can sense the pressing and provide power to the appropriate regions. Additionally, we made a custom prototype with 9 total sections (3 consecutive sections of this pattern) that can be controlled by pressing or by a musical controller called a “Monome”, which allows someone to essentially use button inputs to control the color pattern on the fabric.&lt;/p&gt;
+
+&lt;h2 id=&quot;equipment-specifics&quot;&gt;Equipment Specifics&lt;/h2&gt;
+&lt;p&gt;This fabric was woven by hand on an 8 shaft baby wolf, warped at 20 ends per inch with 10/2 pearl cotton. The weave is 300 ends wide (15” wide). Note, the tie up for this draft supports most of the weaving operations, but integrating the color changing sections was accomplished by hand during the weaving process by alternating the types of yarn along the row.&lt;/p&gt;
+
+&lt;h2 id=&quot;yarns&quot;&gt;Yarns&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Stainless Steel Conductive Thread (Button)&lt;/li&gt;
+  &lt;li&gt;Custom Made Thermochromic Yarns (details to making this thread can be found in the additional resources section) (Thermochromic)&lt;/li&gt;
+  &lt;li&gt;10/2 Pearl Cotton in Natural (Regular Yarn)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;weaving-files&quot;&gt;Weaving Files&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/drafts/3_region_weave/adacad_canvas.png&quot;&gt;AdaCAD Draft View&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/drafts/3_region_weave/annotations.txt&quot;&gt;Annotations&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/drafts/3_region_weave/drawdown.png&quot;&gt;Draw Down&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;shuttles&quot;&gt;Shuttles&lt;/h2&gt;
+&lt;p&gt;Weaving each section requires 12 shuttles to be in use at one time. We label the shuttles below and color code them in the draft&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Regular Yarn 1 (R1) - for use on the top layer of the double weave&lt;/li&gt;
+  &lt;li&gt;Regular Yarn 2 (R2) - for use on the bottom layer of the double weave&lt;/li&gt;
+  &lt;li&gt;Regular Yarn 3 (R3) - for use on the top layer in regions where a thermochromic regions splits the left and right sides of the fabric&lt;/li&gt;
+  &lt;li&gt;Button 1/Top (B1/T) - integrated as a supplemental warp in the first button segment&lt;/li&gt;
+  &lt;li&gt;Button 1/Bottom (B1/B) - for use creating the first press region on the bottom layer of the double weave&lt;/li&gt;
+  &lt;li&gt;Button 2/Top (B2/T) - integrated as a supplemental warp in the second button segment&lt;/li&gt;
+  &lt;li&gt;Button 2/Bottom (B2/B) - for use creating the second press region on the bottom layer of the double weave&lt;/li&gt;
+  &lt;li&gt;Button 3/Top (B3/T) - integrated as a supplemental warp in the second button segment&lt;/li&gt;
+  &lt;li&gt;Button 3/Bottom (B3/B) - for use creating the thrid press region on the bottom layer of the double weave&lt;/li&gt;
+  &lt;li&gt;Thermochromic 1 (C1) - for the first color changing region&lt;/li&gt;
+  &lt;li&gt;Thermochromic 2 (C2) - for the second color changing region&lt;/li&gt;
+  &lt;li&gt;Thermochromic 3 (C3) - for the third color changing region&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;final-results&quot;&gt;Final Results&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/3-region-weave.gif&quot; alt=&quot;Animation&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;additional-resources&quot;&gt;Additional Resources&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://unstable.design/force-fabric/&quot;&gt;More Project Details and Production Instructions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dl.acm.org/citation.cfm?id=3295625&quot;&gt;Publication at TEI 2019&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Fri, 23 Apr 2021 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/region-weave/</link>
+        <guid isPermaLink="true">http://localhost:4000/region-weave/</guid>
+        
+        <category>thermochromics</category>
+        
+        <category>circuitry</category>
+        
+        <category>press button</category>
+        
+        
+        <category>ideas</category>
+        
+      </item>
+    
+      <item>
+        <title>Creating and Using Patterns</title>
+        <description>&lt;p&gt;This video shows how to use the patterns window to fill regions and to create your own patterns from regions you selected on the drawdown.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 23 Apr 2021 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/patterns/</link>
+        <guid isPermaLink="true">http://localhost:4000/patterns/</guid>
+        
+        
+        <category>how to</category>
+        
+      </item>
+    
+      <item>
+        <title>Multi-Component Weave</title>
+        <description>&lt;p&gt;Designed By: Shanel Wu; Warps: 230; Shuttles: 6&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/multicomponent.png&quot; alt=&quot;Overview of Multi-Component Weave and different press states&quot; title=&quot;Figure for Multi-Component Weave&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;loom-schacht-baby-wolf-8-shaft&quot;&gt;Loom: Schacht Baby Wolf (8-shaft)&lt;/h2&gt;
+
+&lt;h2 id=&quot;warp-yarns&quot;&gt;Warp Yarns&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;10/2 Pearl cotton in black and white&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;weft-yarns&quot;&gt;Weft Yarns&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;(10P) 10/2 Pearl cotton in black (-B) and white (-W)&lt;/li&gt;
+  &lt;li&gt;(SS) stainless steel conductive yarn&lt;/li&gt;
+  &lt;li&gt;(CC) dyed thermochromic cotton-covered copper conductive yarn&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;shuttles&quot;&gt;Shuttles&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Ground fabric (10P-B)&lt;/li&gt;
+  &lt;li&gt;Pressure sensor (10P-W + SS)&lt;/li&gt;
+  &lt;li&gt;Ground fabric when split (10P-B)&lt;/li&gt;
+  &lt;li&gt;Thermochromic (CC)&lt;/li&gt;
+  &lt;li&gt;Pocket (10P-W)&lt;/li&gt;
+  &lt;li&gt;Pocket when split (10P-W)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;function&quot;&gt;Function&lt;/h2&gt;
+&lt;p&gt;This Multi-Component Weave design shows how a woven smart textile can be a complete embedded system, handling real-time inputs and outputs to achieve a specific function. The weaving integrates a sensor input (pressure) and an output (color change) into the fabric structure, while creating a pocket for an external PCB (e.g. an Arduino microprocessor) to integrate processing. This mixture of techniques and materials demonstrates how the weaving process can be used to develop complex, multi-functional smart textiles. The color-changing region has been documented in other projects, but I describe the pressure sensor and pocket in more detail below.&lt;/p&gt;
+
+&lt;h3 id=&quot;pressure-sensor&quot;&gt;Pressure Sensor&lt;/h3&gt;
+
+&lt;p&gt;The pressure sensor was created with a woven structure (stitch) called waffle weave. Waffle weave is a textured structure often used in towels because its airiness makes it highly absorbent. When woven using a conductive yarn along with a non-conductive yarn (I used stainless steel with 10/2 Pearl cotton yarn), the structure is highly resistive when uncompressed, and then decreases significantly in resistance when compressed. This pressure-sensing fabric references the work on this &lt;a href=&quot;https://www.kobakant.at/DIY/?p=6005&quot;&gt;Kobakant page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/multicomponent_stitch.png&quot; alt=&quot;A comparison of the waffle weave draft to the woven fabric.&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;double-woven-pocket&quot;&gt;Double Woven Pocket&lt;/h3&gt;
+
+&lt;p&gt;The pocket was created using double weave. Double weaving is a class of woven structure that allows two layers of fabric to be woven simultaneously, making pockets, tunnels, and other topologies possible. During weaving, the pocket was also separated into two shuttles to create a slit for easy access to the microcontroller’s power switch.&lt;/p&gt;
+
+&lt;h2 id=&quot;draft-notes&quot;&gt;Draft Notes&lt;/h2&gt;
+
+&lt;p&gt;Currently, there is no large, “master” draft for this piece. Because I was using a non-digital loom, I found it more helpful to use small unit drafts to represent certain sections as instructions for myself. The files are bitmaps of these unit drafts.&lt;/p&gt;
+
+&lt;h2 id=&quot;files&quot;&gt;Files&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/drafts/multicomponent_weave/multiComponent.bmp&quot;&gt;Draft Bitmap&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/drafts/multicomponent_weave/waffleUnit.bmp&quot;&gt;Waffle Unit Bitmap&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Fri, 23 Apr 2021 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/multicomponent/</link>
+        <guid isPermaLink="true">http://localhost:4000/multicomponent/</guid>
+        
+        <category>thermochromics</category>
+        
+        <category>double weaving</category>
+        
+        <category>force sensing</category>
+        
+        <category>circuitry</category>
+        
+        
+        <category>ideas</category>
+        
+      </item>
+    
+      <item>
+        <title>A Fabric that Remembers</title>
+        <description>
+</description>
+        <pubDate>Fri, 23 Apr 2021 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/memory/</link>
+        <guid isPermaLink="true">http://localhost:4000/memory/</guid>
+        
+        <category>force sensing</category>
+        
+        <category>2-pic structures</category>
+        
+        <category>circuitry</category>
+        
+        
+        <category>ideas</category>
+        
+      </item>
+    
+      <item>
+        <title>Adding Systems and Materials</title>
+        <description>&lt;p&gt;This video tells you about how describe the materials of your weave, how to work with warp and weft systems, and how to apply patterns to your warps and wefts using Actions.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 23 Apr 2021 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/materials/</link>
+        <guid isPermaLink="true">http://localhost:4000/materials/</guid>
+        
+        
+        <category>how to</category>
+        
+      </item>
+    
+      <item>
+        <title>Sensor Headband</title>
+        <description>&lt;p&gt;The draft for this file uses four systems: two base systems for elastics and support structures, and two for integrated electronics.&lt;/p&gt;
+
+&lt;p&gt;The complete draft rendering is shown here:
+&lt;img src=&quot;/assets/images/SensorHeadband_Compiled_All.jpg&quot; alt=&quot;file&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You can see the base materials here:
+&lt;img src=&quot;/assets/images/SensorHeadband_Compiled_B+D.jpg&quot; alt=&quot;file&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You can see the integrated materials here&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/SensorHeadband_Compiled_A+C.jpg&quot; alt=&quot;file&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 23 Apr 2021 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/headband/</link>
+        <guid isPermaLink="true">http://localhost:4000/headband/</guid>
+        
+        <category>electrode</category>
+        
+        <category>elastic</category>
+        
+        <category>double weaving</category>
+        
+        <category>circuitry</category>
+        
+        
+        <category>ideas</category>
+        
+      </item>
+    
+      <item>
+        <title>Design Tools</title>
+        <description>&lt;p&gt;This video will walk you through the different design tools that AdaCAD offers.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 23 Apr 2021 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/design-basics/</link>
+        <guid isPermaLink="true">http://localhost:4000/design-basics/</guid>
+        
+        
+        <category>how to</category>
+        
+      </item>
+    
+  </channel>
+</rss>

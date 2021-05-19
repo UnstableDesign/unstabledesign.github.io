@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<link rel="icon" href="/assets/images/logo.png">
+
+<title>Color Changing Pressable Fabric | AdaCAD</title>
+
+<!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Color Changing Pressable Fabric | AdaCAD</title>
+<meta name="generator" content="Jekyll v3.9.1" />
+<meta property="og:title" content="Color Changing Pressable Fabric" />
+<meta name="author" content="laura" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Weave with Regions of Press Sensing and Color Change Designed and Woven by Laura Devendorf Electronics and PCB Designed by Chad Di Lauro" />
+<meta property="og:description" content="Weave with Regions of Press Sensing and Color Change Designed and Woven by Laura Devendorf Electronics and PCB Designed by Chad Di Lauro" />
+<link rel="canonical" href="http://localhost:4000/region-weave/" />
+<meta property="og:url" content="http://localhost:4000/region-weave/" />
+<meta property="og:site_name" content="AdaCAD" />
+<meta property="og:image" content="http://localhost:4000/assets/images/3-region-weave.gif" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2021-04-23T00:00:00-06:00" />
+<script type="application/ld+json">
+{"description":"Weave with Regions of Press Sensing and Color Change Designed and Woven by Laura Devendorf Electronics and PCB Designed by Chad Di Lauro","author":{"@type":"Person","name":"laura"},"@type":"BlogPosting","url":"http://localhost:4000/region-weave/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/images/logo.png"},"name":"laura"},"image":"http://localhost:4000/assets/images/3-region-weave.gif","headline":"Color Changing Pressable Fabric","dateModified":"2021-04-23T00:00:00-06:00","datePublished":"2021-04-23T00:00:00-06:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/region-weave/"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Baumans&family=Varela+Round&display=swap" rel="stylesheet">
+
+<link href="/assets/css/screen.css" rel="stylesheet">
+
+<link href="/assets/css/main.css" rel="stylesheet">
+
+<script src="/assets/js/jquery.min.js"></script>
+
+</head>
+
+
+
+
+<body class="layout-howto">
+	<!-- defer loading of font and font awesome -->
+	<noscript id="deferred-styles">
+		<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+	</noscript>
+
+
+<!-- Begin Menu Navigation
+================================================== -->
+<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
+
+
+    <div class="container pr-0">
+
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+    </button>
+
+        <div class="create-btn">
+            <a target="_blank" class="btn btn-error" href="https://adacad-weaver.firebaseapp.com/"> Start Drafting</a>
+        </div>
+
+    <div class="collapse navbar-collapse" id="navbarMediumish">
+
+        <!-- Begin Menu -->
+
+            <ul class="navbar-nav ml-auto">
+
+             
+                
+                
+                <li class="nav-item">
+                
+                <a class="nav-link" href="/index.html">Home</a>
+                </li>
+
+              
+
+
+ <!--                
+                <li class="nav-item">
+                
+                <a class="nav-link" href="/ideas">Ideas</a>
+                </li> -->
+
+                
+                <li class="nav-item">
+                
+                <a class="nav-link" href="/learn">Learn</a>
+                </li>
+
+
+
+                <li class="nav-item">
+                <a class="nav-link" href="/about">About</a>
+                </li>
+
+               
+
+           
+                <li class="nav-item">
+                <a target="_blank" class="nav-link" href="https://github.com/UnstableDesign/AdaCAD"><i class="fab fa-github"></i> Fork AdaCAD on Github</a>
+                </li>
+
+                    <!-- Begin Logo -->
+                <li class="nav-item">
+                <a class="nav-link" target="_blank" href="https://unstable.design">
+                Unstable Design Lab
+                 <img src="/assets/images/lab-logo.png" alt="Link to Unstable Design Lab Webpage" width="25px">
+                </a>
+                </li>
+    <!-- End Logo -->
+
+
+                
+            
+
+            </ul>
+
+
+        <!-- End Menu -->
+
+    </div>
+
+    </div>
+
+
+</nav>
+<!-- End Navigation
+================================================== -->
+
+
+
+<!-- Site Title
+================================================== -->
+<div class="mainheading">
+
+ <div class="row">
+       
+        <div class="col-md-1 pl-0">
+        </div>
+
+        <div class="col-md-8 pl-0 flex-first flex-md-unordered">
+            <!-- Post Title -->
+             <h1 class="sitetitle"><a href="/">Ada</a></span><span class="subtitle">CAD</span></h1>
+             <p class="lead">
+                 <span >
+                    An Experimental Drafting Tool for Experimental Weavers
+                 </span>
+            </p>
+        </div>
+
+        <div class="adabox col-md-2 pl-6 flex-first flex-md-unordered">
+            <span > <a href="https://en.wikipedia.org/wiki/Ada_Lovelace" target="_black">About Ada Lovelace</a></span>
+        </div>
+
+</div>
+<div class="row">
+       <div class="col-md-1 pl-0">
+        </div>
+       <div class="subheading-links pl-1 flex-first flex-md-unordered">
+
+
+                
+                <a class="btn btn-heading" href="/learn">Learn</a>
+                
+
+
+                
+                <a class="btn btn-heading" href="/ideas">Ideas</a>
+                
+
+        </div>
+      
+</div>
+</div>
+
+
+
+<div class="site-content">
+
+
+
+
+
+
+
+
+<div class="container">
+
+
+<!-- Content
+================================================== -->
+<div class="main-content">
+    <!-- Begin Article
+================================================== -->
+<div class="container">
+
+        <div class="row">
+        <div class="col-md-3 pl-0">
+        </div>
+
+
+        <div class="col-md-8 flex-first flex-md-unordered">
+                  <!-- Post Title -->
+                <h1 class="posttitle">Color Changing Pressable Fabric</h1>
+            </div>
+        </div>
+
+
+
+    <div class="row">
+        <!-- Post -->
+        
+
+        <!-- Post Share -->
+        <div class="col-md-3 pl-0 authorbox">
+
+
+          <!-- Author Box -->
+            
+
+                    <a target="_blank" class="link-dark" href="https://unstable.design">By Laura</a>
+                   <br>
+                    <span class="author-description">Director of the Unstable Design Lab and AdaCAD development</span>
+               
+            
+
+
+            
+
+
+               
+
+        </div>
+
+        <div class="col-md-8 flex-first flex-md-unordered">
+
+
+
+            <!-- Post Featured Video -->
+            
+
+                
+                <img class="featured-image img-fluid" src="/assets/images/3-region-weave.gif" alt="Color Changing Pressable Fabric">
+                
+
+            
+            <!-- End Featured Image -->
+
+            <!-- Post Content -->
+            <div class="article-post">
+                <!-- Toc if any -->
+                
+                <!-- End Toc -->
+                <h1 id="weave-with-regions-of-press-sensing-and-color-change">Weave with Regions of Press Sensing and Color Change</h1>
+<ul>
+  <li>Designed and Woven by <a href="https://github.com/devendork">Laura Devendorf</a></li>
+  <li>Electronics and PCB Designed by Chad Di Lauro</li>
+</ul>
+
+<h2 id="summary">Summary</h2>
+<p>This fabric uses a double woven structure and inlay techniques to create three adjacent regions that can sense press and change color in response. We used a stainless steel conductive yarn to integrate press pads into the back of the double layer weave, and a custom made color changing yarn integrated into the front face of the weave. The weave is designed such that all of the connecting wires are routed to the left side of the fabric. We developed a custom PCB and code that can sense the pressing and provide power to the appropriate regions. Additionally, we made a custom prototype with 9 total sections (3 consecutive sections of this pattern) that can be controlled by pressing or by a musical controller called a “Monome”, which allows someone to essentially use button inputs to control the color pattern on the fabric.</p>
+
+<h2 id="equipment-specifics">Equipment Specifics</h2>
+<p>This fabric was woven by hand on an 8 shaft baby wolf, warped at 20 ends per inch with 10/2 pearl cotton. The weave is 300 ends wide (15” wide). Note, the tie up for this draft supports most of the weaving operations, but integrating the color changing sections was accomplished by hand during the weaving process by alternating the types of yarn along the row.</p>
+
+<h2 id="yarns">Yarns</h2>
+<ul>
+  <li>Stainless Steel Conductive Thread (Button)</li>
+  <li>Custom Made Thermochromic Yarns (details to making this thread can be found in the additional resources section) (Thermochromic)</li>
+  <li>10/2 Pearl Cotton in Natural (Regular Yarn)</li>
+</ul>
+
+<h2 id="weaving-files">Weaving Files</h2>
+<ul>
+  <li><a href="/assets/drafts/3_region_weave/adacad_canvas.png">AdaCAD Draft View</a></li>
+  <li><a href="/assets/drafts/3_region_weave/annotations.txt">Annotations</a></li>
+  <li><a href="/assets/drafts/3_region_weave/drawdown.png">Draw Down</a></li>
+</ul>
+
+<h2 id="shuttles">Shuttles</h2>
+<p>Weaving each section requires 12 shuttles to be in use at one time. We label the shuttles below and color code them in the draft</p>
+<ol>
+  <li>Regular Yarn 1 (R1) - for use on the top layer of the double weave</li>
+  <li>Regular Yarn 2 (R2) - for use on the bottom layer of the double weave</li>
+  <li>Regular Yarn 3 (R3) - for use on the top layer in regions where a thermochromic regions splits the left and right sides of the fabric</li>
+  <li>Button 1/Top (B1/T) - integrated as a supplemental warp in the first button segment</li>
+  <li>Button 1/Bottom (B1/B) - for use creating the first press region on the bottom layer of the double weave</li>
+  <li>Button 2/Top (B2/T) - integrated as a supplemental warp in the second button segment</li>
+  <li>Button 2/Bottom (B2/B) - for use creating the second press region on the bottom layer of the double weave</li>
+  <li>Button 3/Top (B3/T) - integrated as a supplemental warp in the second button segment</li>
+  <li>Button 3/Bottom (B3/B) - for use creating the thrid press region on the bottom layer of the double weave</li>
+  <li>Thermochromic 1 (C1) - for the first color changing region</li>
+  <li>Thermochromic 2 (C2) - for the second color changing region</li>
+  <li>Thermochromic 3 (C3) - for the third color changing region</li>
+</ol>
+
+<h2 id="final-results">Final Results</h2>
+<p><img src="/assets/images/3-region-weave.gif" alt="Animation" /></p>
+
+<h2 id="additional-resources">Additional Resources</h2>
+<ul>
+  <li><a href="http://unstable.design/force-fabric/">More Project Details and Production Instructions</a></li>
+  <li><a href="https://dl.acm.org/citation.cfm?id=3295625">Publication at TEI 2019</a></li>
+</ul>
+
+
+            </div>
+
+            <!-- Rating -->
+            
+
+            <!-- Post Date -->
+            <p>
+            <small>
+                <span class="post-date"><time class="post-date" datetime="2021-04-23">23 Apr 2021</time></span>           
+                
+                </small>
+            </p>
+
+            <!-- Post Categories -->
+            <div class="after-post-cats">
+                <ul class="tags mb-4">
+                    
+                    
+                    <li>
+                        <a class="smoothscroll" href="/categories#ideas">ideas</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <!-- End Categories -->
+
+            <!-- Post Tags -->
+            <div class="after-post-tags">
+                <ul class="tags">
+                    
+                    
+                    <li>
+                        <a class="smoothscroll" href="/tags#circuitry">#circuitry</a>
+                    </li>
+                    
+                    <li>
+                        <a class="smoothscroll" href="/tags#press-button">#press button</a>
+                    </li>
+                    
+                    <li>
+                        <a class="smoothscroll" href="/tags#thermochromics">#thermochromics</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <!-- End Tags -->
+
+            <!-- Prev/Next -->
+            <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
+            
+            <a class="prev d-block col-md-6" href="//patterns/"> &laquo; Creating and Using Patterns</a>
+            
+            
+            <a class="next d-block col-md-6 text-lg-right" href="//save-files/">How to Save Files &raquo; </a>
+            
+            <div class="clearfix"></div>
+            </div>
+            <!-- End Categories -->
+
+        </div>
+        <!-- End Post -->
+
+    </div>
+</div>
+<!-- End Article
+================================================== -->
+
+<!-- Begin Comments
+================================================== -->
+
+    <div class="container">
+        <div id="comments" class="row justify-content-center mb-5">
+            <div class="col-md-8">
+                <section class="disqus">
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        var disqus_shortname = 'https-unstabledesign-github-io-adacad'; 
+        var disqus_developer = 0;
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = window.location.protocol + '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+
+            </div>
+        </div>
+    </div>
+
+<!--End Comments
+================================================== -->
+
+<!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: 
+https://search.google.com/structured-data/testing-tool/u/0/
+================================================== -->
+
+</div>
+
+
+<!-- Bottom Alert Bar
+================================================== -->
+<div class="alertbar">
+	<div class="container text-center">
+		<span><img src="/assets/images/logo.png" alt="AdaCAD"> &nbsp; Hoping for <b>updates</b> from us, subscribe to our newsletter</span>
+        <form action="http://eepurl.com/g8hWjD" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
+            <div class="mc-field-group">
+           <!--  <input type="email" placeholder="Email" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required> -->
+            <input type="submit" value="Subscribe" name="subscribe" class="heart">
+            </div>
+        </form>
+	</div>
+</div>
+
+    
+</div>
+
+<!-- Categories Jumbotron
+================================================== -->
+<div class="jumbotron fortags">
+	<div class="d-md-flex h-100 jumbo-right ">
+		<div class="col-md-4 align-self-center text-center h-100">
+            <div class="jumbo-left d-md-flex align-items-center justify-content-center h-100">
+                <h2 class="d-md-block align-self-center py-1 font-weight-light">Explore <span class="d-none d-md-inline">→</span></h2>
+            </div>
+		</div>
+		<div class="col-md-8 p-5 align-self-center text-center">
+            
+            
+                
+                    <a class="mt-1 mb-1" href="/tags#double-weaving">double weaving (3)</a>
+                
+                    <a class="mt-1 mb-1" href="/tags#press-button">press button (2)</a>
+                
+                    <a class="mt-1 mb-1" href="/tags#circuitry">circuitry (7)</a>
+                
+                    <a class="mt-1 mb-1" href="/tags#thermochromics">thermochromics (3)</a>
+                
+                    <a class="mt-1 mb-1" href="/tags#electrode">electrode (1)</a>
+                
+                    <a class="mt-1 mb-1" href="/tags#elastic">elastic (1)</a>
+                
+                    <a class="mt-1 mb-1" href="/tags#force-sensing">force sensing (3)</a>
+                
+                    <a class="mt-1 mb-1" href="/tags#2-pic-structures">2-pic structures (1)</a>
+                
+                    <a class="mt-1 mb-1" href="/tags#waffle-weave">waffle weave (1)</a>
+                
+            
+            
+		</div>
+	</div>
+</div>
+
+<!-- Begin Footer
+================================================== -->
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-sm-6 text-center text-lg-left">
+                Copyright © 2021 AdaCAD 
+            </div>
+            <div class="col-md-6 col-sm-6 text-center text-lg-right">    
+                <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish Jekyll Theme</a> by WowThemes.net
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- End Footer
+================================================== -->
+
+</div> <!-- /.site-content -->
+
+<!-- Scripts
+================================================== -->
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+
+<script src="/assets/js/mediumish.js"></script>
+
+
+
+<script src="/assets/js/ie10-viewport-bug-workaround.js"></script> 
+
+
+
+</body>
+</html>
