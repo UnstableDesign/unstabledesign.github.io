@@ -1,4 +1,72 @@
-theme: jekyll-theme-minimal
-title: Computational Textile Craft Resources
-description: weaving drafts, software, how-tos, and PCB files to create prototypes designed by the Unstable Design Lab. 
+# Site
+name: "AdaCAD"
+title: "AdaCAD"
+description: "An Experimental Drafting Tool for Experimental Weavers"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: '/AdaCAD'
+google_analytics: 'G-KEPD0M7RN1'
+disqus: 'https-unstabledesign-github-io-adacad'
+mailchimp-list: 'http://eepurl.com/g8hWjD'
+include: ["_pages"]
+permalink: /:title/
 
+# Authors
+authors:
+  laura:
+    name: Laura
+    display_name: Laura
+    email: unstabledesignlab@gmail.com
+    web: https://unstable.design
+    description: "Director of the Unstable Design Lab and AdaCAD development"
+
+  shanel:
+    name: S Wu
+    display_name: S
+    email: unstabledesignlab@gmail.com
+    web: https://sminliwu.github.io/
+    description: "PhD at Unstable Design Lab, Loom Hacker"
+  
+  sandra:
+    name: Sandra Wirtanen
+    display_name: Sandra
+    web: https://sandrawirtanen.com/
+    description: "2019 Weaver in Residence"
+
+
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]

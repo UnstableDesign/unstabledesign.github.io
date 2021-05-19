@@ -1,12 +1,23 @@
-# Smart Textiles Documentation
-In this repository holds documentation for projects created at the Unstable Design Lab. You can explore or contribute to this repository. 
+# Mediumish - Jekyll Theme
 
-## Exploring
-To explore you can look at the github repository or you can go to [unstabledesign.github.io](https://unstabledesign.github.io).
+[Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/)
 
-## Contributing
-When contributing, please include the draft and annotation information in a prototype folder in [/drafts](/drafts), as well as a documentation page explaining the prototype and design in [/docs](/docs).
+![mediumish](assets/images/mediumish-jekyll-template.png)
 
-To documentation page should be a folder named appropriately for the prototype. The documentation should be in a markdown file like: `prototype-name/index.md`. Additionally, you can add images of the prototype in the folder to display in the documentation.
 
-Once you have included these files, you can request your files be merged into the main repository. A link will be added to the main `index.md` after your files are added.
+### Copyright
+
+Copyright (C) 2019 Sal, https://www.wowthemes.net
+
+**Mediumish for Jekyll** is designed and developed by [Sal](https://www.wowthemes.net) and it is *free* under MIT license. 
+
+<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
+### Contribute
+
+1. [Fork the repo](https://github.com/wowthemesnet/mediumish-theme-jekyll).
+2. Clone a copy of your fork on your local
+3. Create a branch off of master and give it a meaningful name (e.g. my-new-mediumish-feature).
+4. Make necessary changes, commit, push and open a pull request on GitHub.
+
+Thank you!
