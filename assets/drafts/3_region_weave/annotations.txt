@@ -1,0 +1,94 @@
+Shuttles:
+Regular Yarn 1
+Regular Yarn 2
+Regular Yarn 3
+Button 1/Top
+Button 1/Bottom
+Button 2/Top
+Button 2/Bottom
+Button 3/Top
+Button 3/Bottom
+Thermochromic 1
+Thermochromic 2
+Thermochromic 3
+
+Connections:
+Button 1/Top connection along warp 41 (count left to right) from rows 22 through 84
+Button 2/Top connection along warp 113 (count left to right) from rows 14 through 91
+Button 3/Top connection along warp 261 (count left to right) from rows 7 through 97
+
+Order of Shuttles thrown (starts from bottom up):
+1 Regular Yarn 2
+2 Regular Yarn 1
+Repeat shuttles from 1-2 until row 6
+7 Button 3/Top
+8 Regular Yarn 2
+9 Thermochromic 3
+10 Regular Yarn 1
+11 Regular Yarn 2
+12 Thermochromic 3
+13 Regular Yarn 1
+14 Button 2/Top
+15 Regular Yarn 2
+16 Thermochromic 3
+17 Regular Yarn 1
+18 Regular Yarn 2
+19 Thermochromic 3
+20 Regular Yarn 2
+21 Regular Yarn 1
+22 Button 1/Top
+23 Regular Yarn 1
+24 Regular Yarn 2
+Repeat shuttles from 23-24 until row 26
+27 Button 1/Bottom
+28 Button 2/Bottom
+29 Button 3/Bottom
+30 Regular Yarn 1
+31 Thermochromic 1
+32 Regular Yarn 2
+Repeat shuttles from 30-32 until row 38
+39 Button 1/Bottom
+40 Button 2/Bottom
+41 Button 3/Bottom
+42 Regular Yarn 1
+43 Thermochromic 1
+44 Regular Yarn 2
+45 Regular Yarn 1
+46 Regular Yarn 2
+Repeat shuttles from 45-46 until row 48
+49 Button 1/Bottom
+50 Button 2/Bottom
+51 Button 3/Bottom
+52 Regular Yarn 1
+53 Regular Yarn 2
+Repeat shuttles from 52-53 until row 56
+57 Thermochromic 2
+58 Regular Yarn 2
+59 Button 1/Bottom
+60 Button 2/Bottom
+61 Button 3/Bottom
+62 Regular Yarn 1
+63 Regular Yarn 3
+64 Thermochromic 2
+65 Regular Yarn 2
+Repeat shuttles from 62-65 until row 73
+74 Button 1/Bottom
+75 Button 2/Bottom
+76 Button 3/Bottom
+77 Regular Yarn 1
+78 Regular Yarn 3
+79 Regular Yarn 2
+80 Regular Yarn 1
+Repeat shuttles from 79-80 until row 83
+84 Button 1/Bottom
+85 Regular Yarn 1
+86 Regular Yarn 2
+Repeat shuttles from 85-86 until row 90
+91 Button 2/Bottom
+92 Regular Yarn 1
+93 Regular Yarn 2
+Repeat shuttles from 92-93 until row 96
+97 Button 3/Bottom
+98 Regular Yarn 2
+99 Regular Yarn 1
+Repeat shuttles from 98-99 until row 103
