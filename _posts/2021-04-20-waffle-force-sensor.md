@@ -5,10 +5,9 @@ author: laura
 categories: [how to]
 image: assets/images/waffle-force-sensor-all.jpg
 file: assets/ada/waffle-sensor.ada
-video: https://www.youtube.com/embed/_lJBt69aJ7k
+video: https://www.youtube.com/embed/O9fLz6R60NA
 idea: sedimentation/ 
 featured: true
-comments: true
 
 ---
 
