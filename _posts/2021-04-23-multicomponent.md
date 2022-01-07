@@ -3,7 +3,7 @@ layout: post
 title:  "Multi-Component Weave"
 author: shanel
 categories: [ideas]
-image: /assets/images/multicomponent.png
+image: assets/images/multicomponent.png
 tags: [thermochromics, double weaving, force sensing, circuitry]
 comments: true
 
