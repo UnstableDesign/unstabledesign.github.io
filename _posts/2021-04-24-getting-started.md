@@ -3,6 +3,7 @@ layout: howto
 title:  "Getting Started"
 author: laura
 categories: [how to]
+file: /assets/ada/intro.ada
 image: assets/images/Mixer_Overview.jpeg
 video: https://www.youtube.com/embed/_lJBt69aJ7k
 featured: true
