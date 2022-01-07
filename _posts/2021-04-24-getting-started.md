@@ -10,7 +10,7 @@ featured: true
 comments: true
 ---
 
-<p>Welcome to AdaCAD. This page will given an overview of the interface and a few tips on how to get started drafting. </p>
+<p>Welcome to AdaCAD. This resources on this page will give you an overview of the interface and a few tips on how to get started drafting. </p>
 
 ![file]({{ site.baseurl }}/assets/images/Mixer_Overview.jpeg)
 <p>A labeled guide to the AdaCAD interface</p>
