@@ -5,7 +5,7 @@ author: laura
 categories: [how to]
 file: /assets/ada/intro.ada
 image: assets/images/Mixer_Overview.jpeg
-video: https://www.youtube.com/embed/_lJBt69aJ7k
+video: https://www.youtube.com/embed/LZy9ME3Tr54
 featured: true
 comments: true
 ---
