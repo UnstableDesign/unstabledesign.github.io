@@ -7,7 +7,7 @@ image: assets/images/waffle-force-sensor-all.jpg
 file: assets/ada/waffle-sensor.ada
 video: https://www.youtube.com/embed/O9fLz6R60NA
 idea: sedimentation/ 
-featured: true
+featured: false
 
 ---
 
