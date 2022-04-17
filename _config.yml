@@ -4,7 +4,7 @@ title: "AdaCAD"
 description: "Experimental Drafting Tools for Experimental Weavers"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: '/'
+baseurl: 'adacad.unstable.design/'
 # baseurl: '/test'
 google_analytics: 'G-KEPD0M7RN1'
 mailchimp-list: 'http://eepurl.com/g8hWjD'
