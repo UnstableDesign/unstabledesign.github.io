@@ -4,7 +4,6 @@ title:  "How to Weave a Press Button"
 author: laura
 categories: [how to]
 image: assets/images/press-button-made-hand.jpg
-file: /assets/ada/press-button.ada
 tags: [double weaving, press button, circuitry]
 video: https://www.youtube.com/embed/_lJBt69aJ7k
 comments: true

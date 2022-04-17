@@ -5,7 +5,7 @@ author: laura
 categories: [how to]
 tags: [force sensing,  2-pic structures,  mixer]
 image: assets/images/twopic.png
-file: assets/ada/mixer_twopic.ada
+file: twopic
 video: https://www.youtube.com/embed/zOZSkcY8xoM
 idea: memory/ 
 ---

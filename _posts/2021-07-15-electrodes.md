@@ -5,7 +5,7 @@ author: laura
 categories: [how to]
 tags: [mixer, electrodes]
 image: assets/images/steel_pattern_diagstripes_ld_detail.jpg
-file: assets/ada/mixer_electrodes.ada
+file: electrode
 video: https://www.youtube.com/embed/Z8sA4OFuccQ
 featured: false
 ---
