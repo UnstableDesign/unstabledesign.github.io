@@ -47,7 +47,7 @@ comments: true
 <li>Copy: copies the draft into a new draft, without an operation parent, so that you can make edits or changes outline of the operation-draft-workflow</li>
 <li>Download: downloads the draft as a bitmap or image. You can use this to export structures which you may later import into Photoshop.</li>
 <li>Connect: clicking the downward arrow at the bottom of the draft lets you add it as an input to an operation. A single draft can be connected to multiple operations.</li>
-
+</ul>
 <p>Operations also have a few options</p>
 <ul>
 <li>Connect: the top, right-facing arrow can be clicked to select this operation as a destination for a previously selected draft. When drafts are connected to an operation, their name appears to the right of this arrow. You can use this to either see what you've connected or remove a connection.</li>
@@ -55,7 +55,7 @@ comments: true
 <li>Copy: copies this operation (and its parameters) and pastes it onto the workspace</li>
 <li>Delete: deletes the operation and any immediately connected drafts and connections</li>
 <li>Parameters: most operations have parameters (numbers, text, check boxes) that let you give them some information about how they should behave. Just play with these to see how they work :) </li>
-
+</ul>
 
 ![file]({{ site.baseurl }}/assets/images/Finetune_Overview.jpeg)
 <p>A labeled guide to the fine-tuning interface. When you add drafts and operations to the workspace, you can expand the to enter "fine tuning" mode, which allows you see more details about an indivdiual draft. There is a sidebar on this window that offers you controls to</p>
